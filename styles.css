@@ -23,11 +23,11 @@ body {
 
 #cursor-blur{
     height: 400px;
-    width: 400px;
-    background-color: #96c11e2b;
+    width: 500px;
+    background-color: rgba(150, 193, 30, 0.157);
     border-radius: 50%;
     position: fixed;
-    filter: blur(50px);
+    filter: blur(40px);
     z-index: 9;
 }
 
