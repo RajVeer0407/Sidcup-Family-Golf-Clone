@@ -237,7 +237,8 @@ video {
 
 #about-us-in p{
     font-size: 20px;
-    line-height: 38px;
+    line-height: 42px;
+    font-weight: 500;
 }
 
 #card-container{
