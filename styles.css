@@ -72,6 +72,10 @@ body {
     font-weight: 500;
 }
 
+#nav h4{
+    cursor: pointer;
+}
+
 video {
     height: 100%;
     width: 100%;
