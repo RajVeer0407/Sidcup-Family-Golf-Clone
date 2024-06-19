@@ -449,6 +449,7 @@ video {
     position: relative;
     z-index: 99;
     /* background-color: red; */
+    cursor: pointer;
   }
   #f2 h3 {
     font-size: 30px;
