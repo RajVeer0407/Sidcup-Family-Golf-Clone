@@ -43,7 +43,7 @@ body {
 #cursor-blur{
     height: 400px;
     width: 500px;
-    background-color: rgba(150, 193, 30, 0.157);
+    background-color: rgba(150, 193, 30, 0.208);
     border-radius: 50%;
     position: fixed;
     filter: blur(40px);
